@@ -1,0 +1,6 @@
+git init
+git add filename
+git commit -m "message"
+git status
+git remote origin https://github.com/username/filename.git
+git push origin master
